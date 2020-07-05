@@ -6,7 +6,11 @@
 </head>
 <body>
     <ul>
+<<<<<<< HEAD
     <h1>Ola mundo 2 </h1>
+=======
+    <h1>Ola mundo1</h1>
+>>>>>>> develop
 
 
         <li>Vagrant</li>
