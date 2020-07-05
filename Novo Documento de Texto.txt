@@ -6,11 +6,9 @@
 </head>
 <body>
     <ul>
-<<<<<<< HEAD
     <h1>Ola mundo </h1>
-=======
-   
->>>>>>> Apagandomais
+
+
         <li>Vagrant</li>
         <li>Docker</li>
         <li>Ansible</li>
