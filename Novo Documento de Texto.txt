@@ -6,14 +6,18 @@
 </head>
 <body>
     <ul>
+    <h1>Ola mundo </h1>
+
+
         <li>Vagrant</li>
         <li>Docker</li>
         <li>Ansible</li>
         <li>Integração Continua</li>
-        <li>Vagrant</li>
-        <li>Docker</li>
-        <li>Ansible</li>
         <li>Integração Continua</li>
+<<<<<<< HEAD
+=======
+
+>>>>>>> develop
 
 
     </ul>
